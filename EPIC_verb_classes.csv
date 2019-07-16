@@ -27,7 +27,7 @@ verb_id,class_key,verbs
 25,add,"['add', 'combine', 'add-to']"
 26,scrape,"['scrape', 'scrape-out', 'loose', 'scour', 'scrap', 'scrape-off']"
 27,sharpen,"['sharpen', 'thin']"
-28,wrap,"['wrap', 'top', 'lid', 'cover', 'seal', 'clamp', 'fasten', 'reseal', 'clip', 'wrap-up', 'tie']"
+28,wrap,"['wrap', 'lid', 'cover', 'seal', 'clamp', 'fasten', 'reseal', 'clip', 'wrap-up', 'tie']"
 29,roll,"['roll', 'roll-up']"
 30,sprinkle,"['sprinkle', 'sprinkle-on', 'drizzle', 'scatter', 'sprincle', 'crumble']"
 31,break,"['break', 'snap', 'crack', 'break-up']"
